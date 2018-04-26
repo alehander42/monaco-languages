@@ -43,3 +43,4 @@ import './swift/swift.contribution';
 import './vb/vb.contribution';
 import './xml/xml.contribution';
 import './yaml/yaml.contribution';
+import './nim/nim.contribution'
